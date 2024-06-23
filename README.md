@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Full-Stack MERN Development**
 
-- 📫 How to reach me **dewansh.upadhyay2017@gmail.com**
+- 📫 How to reach me **dewansh_u@me.iitr.ac.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
