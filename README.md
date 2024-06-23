@@ -1,6 +1,6 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)](https://dew-op.io)
 <h1 align="center">Hi 👋, I'm Dewansh Upadhyay</h1>
-<h3 align="center">A passionate full-stack developer from India</h3>
+<h3 align="center">A passionate Full-Stack Developer and a curiosity from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dew-op&label=Profile%20views&color=0e75b6&style=flat" alt="dew-op" /> </p>
 
