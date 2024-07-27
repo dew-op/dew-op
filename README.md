@@ -1,4 +1,8 @@
-[![MasterHead](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2Z3eHpzMzY2MGpzcmR1Zzgyc3c0OHR1bzNzaHM4MGN5eGhtZGpqdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/259Rld7MLgakjvtuSv/giphy.gif)](https://dew-op.io)
+<div align="center">
+  <a href="https://dew-op.io">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2Z3eHpzMzY2MGpzcmR1Zzgyc3c0OHR1bzNzaHM4MGN5eGhtZGpqdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/259Rld7MLgakjvtuSv/giphy.gif" alt="MasterHead">
+  </a>
+</div>
 <h1 align="center">Hi 👋, I'm Dewansh Upadhyay</h1>
 <h3 align="center">A passionate Full-Stack Developer from India</h3>
 
